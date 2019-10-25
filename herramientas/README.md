@@ -3,8 +3,14 @@ El software de ALA fue desarrollado con varias herramientas. Una de las principa
 
 A continuación, se presenta el proceso de instalación de Grails mediante SDKMAN!, en el sistema operativo Ubuntu 18.04.3 LTS.
 
-## Instalación de Grails mediante SDKman
+## Instalación de Grails, y herramientas asociadas, mediante SDKMAN!
 El [Software Development Kit Manager (SDKMAN!)](https://sdkman.io/) es una herramienta que permite instalar y administrar varias versiones de herramientas de desarrollo (ej. Java, Groovy) desde la línea de comandos en sistemas Unix.
+
+### Instalación de SDKMAN!
+Desde una terminal del sistema operativo, debe ejecutarse el comando:
+```console
+$ curl -s https://get.sdkman.io | bash
+```
 
 ### Java
 ### Gradle
