@@ -10,10 +10,6 @@ El [Software Development Kit Manager (SDKMAN!)](https://sdkman.io/) es una herra
 Las instrucciones detalladas pueden consultarse en [https://sdkman.io/install](https://sdkman.io/install). Desde una terminal del sistema operativo, debe ejecutarse el comando:
 ```
 $ curl -s https://get.sdkman.io | bash
-```
-
-Y luego:
-```
 $ source "$HOME/.sdkman/bin/sdkman-init.sh"
 ```
 
