@@ -1,4 +1,4 @@
-# Notas acerca del desarrollo de aplicaciones basadas en los módulos del Atlas de la Biodiversidad de Australia (ALA)
+# Notas acerca del desarrollo de aplicaciones basadas en el software del Atlas de la Biodiversidad de Australia (ALA)
 El [Atlas de la Biodiversidad de Australia (ALA)](https://www.ala.org.au/) es una infraestructura digital colaborativa y abierta que integra datos de biodiversidad de Australia provenientes de diversas fuentes y los hace accesibles y reutilizables.
 
 El [Atlas de la Biodiversidad de Costa Rica](http://www.crbio.cr/) es uno de los [Living Atlases](https://living-atlases.gbif.org/) instalados en diferentes instituciones del mundo y que están basados en el [código fuente de ALA](https://github.com/AtlasOfLivingAustralia).
