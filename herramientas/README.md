@@ -8,7 +8,7 @@ El [Software Development Kit Manager (SDKMAN!)](https://sdkman.io/) es una herra
 
 ### Instalación de SDKMAN!
 Desde una terminal del sistema operativo, debe ejecutarse el comando:
-```console
+```bash
 $ curl -s https://get.sdkman.io | bash
 ```
 
