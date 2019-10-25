@@ -7,7 +7,7 @@ A continuación, se presenta el proceso de instalación de Grails mediante SDKMA
 El [Software Development Kit Manager (SDKMAN!)](https://sdkman.io/) es una herramienta que permite instalar y administrar varias herramientas de desarrollo (ej. Java, Groovy) desde la línea de comandos en sistemas Unix. 
 
 ### Instalación de SDKMAN!
-Las instrucciones detalladas pueden consultarse en [https://sdkman.io/install](https://sdkman.io/install). Desde una terminal del sistema operativo, debe ejecutarse el comando:
+Las instrucciones detalladas pueden consultarse en [https://sdkman.io/install](https://sdkman.io/install). Desde una terminal del sistema operativo, deben ejecutarse los comandos:
 ```
 $ curl -s https://get.sdkman.io | bash
 $ source "$HOME/.sdkman/bin/sdkman-init.sh"
