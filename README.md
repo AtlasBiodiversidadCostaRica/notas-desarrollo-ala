@@ -3,6 +3,8 @@ El [Atlas de la Biodiversidad de Australia (ALA)](https://www.ala.org.au/) es un
 
 El [Atlas de la Biodiversidad de Costa Rica](http://www.crbio.cr/) es uno de los [Living Atlases](https://living-atlases.gbif.org/) instalados en diferentes instituciones del mundo y que están basados en el [código fuente de ALA](https://github.com/AtlasOfLivingAustralia).
 
+Los procedimientos descritos en este documento fueron probados en el sistema operativo Ubuntu 18.04.3 LTS (Bionic Beaver). También pueden funcionar en otros sistemas operativos basados en Unix (ej. Debian, macOS).
+
 
 [Herramientas de desarrollo](https://github.com/AtlasBiodiversidadCostaRica/notas-desarrollo-ala/tree/master/herramientas)
 
