@@ -26,10 +26,31 @@ $ source "$HOME/.sdkman/bin/sdkman-init.sh"
 Para verificar la versión instalada:
 ```
 $ sdk version
-SDKMAN 5.7.3+337
+```
+En octubre de 2019, la versión de SDKMAN! es 5.7.3+337
+
+**Notas sobre el uso de SDKMAN!:**
+Hay una guía detallada en [https://sdkman.io/usage](https://sdkman.io/usage). Se resumen a continuación algunos de los principales comandos.
+
+Para obtener ayuda:
+```
+$ sdk help
 ```
 
-Las herramientas instaladas mediante SDKMAN! quedan almacenadas en el directorio ```~/.sdkman/candidates/```
+Para instalar la última versión estable de un SDK (el instalador preguntará si se desea que esta sea la versión por defecto):
+```
+$ sdk install java
+```
+
+Para instalar una versión específica de un SDK:
+```
+$ sdk install scala 2.12.1
+```
+
+Las herramientas instaladas mediante SDKMAN! quedan almacenadas en el directorio:
+```
+~/.sdkman/candidates/
+```
 
 ### Instalación de Java
 ### Instalación de Gradle
