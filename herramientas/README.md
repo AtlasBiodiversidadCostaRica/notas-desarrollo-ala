@@ -38,13 +38,13 @@ $ sdk selfupdate [force]     # Instalación de una nueva versión de SDKMAN!. [f
 $ sdk install java           # Instalación de la última versión estable de un SDK
 $ sdk install scala 2.12.1   # Instalación de una versión específica de un SDK
 $ sdk uninstall scala 2.11.6 # Desinstalación de una versión específica de un SDK
-$ sdk list                   # Lista de todos los SDK disponibles para instalar
-$ sdk list groovy            # Lista de versiones disponibles de un SDK
+$ sdk list                   # Listado de todos los SDK disponibles para instalar
+$ sdk list groovy            # Listado de versiones disponibles de un SDK
 $ sdk use scala 2.12.1       # Selección de una versión para uso en la terminal actual
 $ sdk default scala 2.11.6   # Selección de una versión por defecto
 $ sdk current java           # Versión en uso de un SDK
-$ sdk upgrade                # Lista de versiones a las que pueden actualizarse todos los SDK
-$ sdk upgrade springboot     # Lista de versiones a las que puede actualizarse un SDK
+$ sdk upgrade                # Listado de versiones a las que pueden actualizarse todos los SDK
+$ sdk upgrade springboot     # Listado de versiones a las que puede actualizarse un SDK
 ```
 
 Los SDK instalados quedan almacenados en el directorio:
