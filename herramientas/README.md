@@ -21,7 +21,7 @@ Para verificar la versión instalada:
 $ sdk version
 ```
 
-Las herramientas instaladas mediante SDKMAN! quedan almacenadas en el directorio ~/.sdkman/candidates/
+Las herramientas instaladas mediante SDKMAN! quedan almacenadas en el directorio ```~/.sdkman/candidates/```
 
 ### Instalación de Java
 ### Instalación de Gradle
