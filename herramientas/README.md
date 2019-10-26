@@ -36,7 +36,7 @@ Hay una guía detallada en [https://sdkman.io/usage](https://sdkman.io/usage). S
 ```
 $ sdk help                   # Obtención de ayuda
 $ sdk version                # Versión instalada de SDKMAN!
-$ sdk selfupdate [force]     # Instala una nueva versión de SDKMAN!. [force] fuerza la reinstalación aún si no hay una nueva versión.
+$ sdk selfupdate [force]     # Instala una nueva versión de SDKMAN!. [force] fuerza la reinstalación aún si no hay una nueva versión disponible.
 $ sdk install java           # Instalación de la última versión estable de un SDK
 $ sdk install scala 2.12.1   # Instalación de una versión específica de un SDK
 $ sdk uninstall scala 2.11.6 # Desinstalación de una versión específica de un SDK
