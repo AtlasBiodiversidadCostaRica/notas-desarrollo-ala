@@ -32,7 +32,7 @@ En octubre de 2019, la versión de SDKMAN! es 5.7.3+337
 Hay una guía detallada en [https://sdkman.io/usage](https://sdkman.io/usage). Se resumen a continuación algunos de los principales comandos.
 
 ```
-$ sdk help                   # Obtención de ayuda
+$ sdk help                   # Ayuda
 $ sdk version                # Versión instalada de SDKMAN!
 $ sdk selfupdate [force]     # Instalación de una nueva versión de SDKMAN!. [force] fuerza la reinstalación aún si no hay una nueva versión disponible.
 $ sdk install java           # Instalación de la última versión estable de un SDK
