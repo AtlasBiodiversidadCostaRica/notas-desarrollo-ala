@@ -29,7 +29,7 @@ En octubre de 2019, la versión de SDKMAN! es 5.7.3+337
 
 ### Notas sobre el uso y configuración de SDKMAN!
 
-Hay una guía detallada en [https://sdkman.io/usage](https://sdkman.io/usage). Se resumen a continuación algunos de los principales comandos.
+Hay una guía detallada en [https://sdkman.io/usage](https://sdkman.io/usage). Se ejemplifican a continuación algunos de los principales comandos.
 
 ```
 $ sdk help                   # Ayuda
