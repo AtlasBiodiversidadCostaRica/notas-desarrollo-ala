@@ -66,6 +66,13 @@ sdkman_debug_mode=false
 sdkman_colour_enable=true
 ```
 
-### Instalación de Java
+### Instalación de Java Development Kit (JDK)
+El [Java Development Kit (JDK)](https://www.oracle.com/technetwork/java/) es una implementación de la plataforma [Java](https://www.oracle.com/java/) que incluye una JVM y otros recursos para el desarrollo de aplicaciones en Java. La edición que se incluye en SDKMAN! es [Java Platform, Standard Edition (Java SE)](https://www.oracle.com/technetwork/java/javase/overview/).
+
+Para instalar el JDK, debe ejecutarse el comando:
+```
+sdk install java 8.0.222-zulu # versión probada para el desarrollo con los módulos de ALA en octubre 2019
+```
+
 ### Instalación de Gradle
 ### Instalación de Grails
