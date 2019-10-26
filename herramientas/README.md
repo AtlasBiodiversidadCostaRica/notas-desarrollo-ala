@@ -13,7 +13,7 @@ Desde una terminal del sistema operativo, deben ejecutarse los siguientes comand
 
 Instalación de zip:
 ```
-$ sudo apt install zip
+$ sudo apt install zip -y
 ```
 
 Instalación de SDKMAN!:
