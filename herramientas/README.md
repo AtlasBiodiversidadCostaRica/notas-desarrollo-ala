@@ -26,6 +26,7 @@ $ source "$HOME/.sdkman/bin/sdkman-init.sh"
 Para verificar la versión instalada:
 ```
 $ sdk version
+SDKMAN 5.7.3+337
 ```
 
 Las herramientas instaladas mediante SDKMAN! quedan almacenadas en el directorio ```~/.sdkman/candidates/```
