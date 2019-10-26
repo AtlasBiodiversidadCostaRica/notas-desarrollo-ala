@@ -30,14 +30,23 @@ $ sdk version
 En octubre de 2019, la versión de SDKMAN! es 5.7.3+337
 
 **Notas sobre el uso de SDKMAN!:**
+
 Hay una guía detallada en [https://sdkman.io/usage](https://sdkman.io/usage). Se resumen a continuación algunos de los principales comandos.
 
 ```
-$ sdk help                  # Obtención de ayuda
-$ sdk install java          # Instalación de la última versión establa de un SDK
-$ sdk install scala 2.12.1  # Instalación de una versión específica de un SDK
-$ sdk list                  # Lista de SDK
-$ sdk list groovy           # Lista de versiones de un SDK
+$ sdk help                   # Obtención de ayuda
+$ sdk version                # Versión instalada de SDKMAN!
+$ sdk selfupdate [force]     # Instala una nueva versión de SDKMAN!. [force] fuerza la reinstalación aún si no hay una nueva versión.
+$ sdk install java           # Instalación de la última versión estable de un SDK
+$ sdk install scala 2.12.1   # Instalación de una versión específica de un SDK
+$ sdk uninstall scala 2.11.6 # Desinstalación de una versión específica de un SDK
+$ sdk list                   # Lista de versiones disponibles de todos los SDK
+$ sdk list groovy            # Lista de versiones disponibles de un SDK
+$ sdk use scala 2.12.1       # Selección de una versión para uso en la terminal actual
+$ sdk default scala 2.11.6   # Selección de una versión por defecto
+$ sdk current java           # Versión en uso de un SDK
+$ sdk upgrade                # Lista de versiones a las que pueden actualizarse todos los SDK
+$ sdk upgrade springboot     # Lista de versiones a las que puede actualizarse un SDK
 ```
 
 Las herramientas instaladas mediante SDKMAN! quedan almacenadas en el directorio:
