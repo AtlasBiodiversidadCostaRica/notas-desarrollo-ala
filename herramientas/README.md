@@ -26,8 +26,8 @@ $ source "$HOME/.sdkman/bin/sdkman-init.sh"
 Para verificar la versión instalada:
 ```
 $ sdk version
+SDKMAN 5.7.3+337 # En octubre de 2019
 ```
-En octubre de 2019, la versión de SDKMAN! es 5.7.3+337
 
 ### Notas sobre el uso y configuración de SDKMAN!
 
