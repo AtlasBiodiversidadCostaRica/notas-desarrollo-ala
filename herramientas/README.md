@@ -9,7 +9,13 @@ El [Software Development Kit Manager (SDKMAN!)](https://sdkman.io/) permite inst
 ### Instalación de SDKMAN!
 Las instrucciones detalladas pueden consultarse en [https://sdkman.io/install](https://sdkman.io/install). 
 
-Desde una terminal del sistema operativo, deben ejecutarse los comandos:
+Desde una terminal del sistema operativo, deben ejecutarse los siguientes comandos.
+
+Instalación de zip:
+```
+$ sudo apt install zip
+```
+
 ```
 $ cd
 $ curl -s https://get.sdkman.io | bash
