@@ -51,7 +51,7 @@ $ sdk upgrade springboot     # Listado de versiones a las que puede actualizarse
 
 Los SDK instalados quedan almacenados en el directorio:
 ```
-$ ~/.sdkman/candidates/
+~/.sdkman/candidates/
 ```
 
 El archivo de configuración está ubicado en ```~/.sdkman/etc/config```. El siguiente es un ejemplo de su contenido:
