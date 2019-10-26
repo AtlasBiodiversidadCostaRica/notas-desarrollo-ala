@@ -84,5 +84,20 @@ OpenJDK 64-Bit Server VM (Zulu 8.42.0.21-CA-linux64) (build 25.232-b18, mixed mo
 ```
 
 ### Instalación de Gradle
+[Gradle](https://gradle.org/) es un sistema de automatización de construcción de código abierto basado en el lenguaje Groovy. Es utilizado por Grails.
+
+Para instalar Gradle:
+```
+# Versión probada para el desarrollo con los módulos de ALA, en octubre 2019
+$ sdk install gradle 3.4.1
+```
+
+Puede comprobarse la instalación con el comando:
+```
+$ gradle -v
+------------------------------------------------------------
+Gradle 3.4.1
+------------------------------------------------------------
+```
 
 ### Instalación de Grails
