@@ -38,7 +38,7 @@ $ sdk selfupdate [force]     # Instala una nueva versión de SDKMAN!. [force] fu
 $ sdk install java           # Instalación de la última versión estable de un SDK
 $ sdk install scala 2.12.1   # Instalación de una versión específica de un SDK
 $ sdk uninstall scala 2.11.6 # Desinstalación de una versión específica de un SDK
-$ sdk list                   # Lista de versiones disponibles de todos los SDK
+$ sdk list                   # Lista de todos los SDK disponibles para instalar
 $ sdk list groovy            # Lista de versiones disponibles de un SDK
 $ sdk use scala 2.12.1       # Selección de una versión para uso en la terminal actual
 $ sdk default scala 2.11.6   # Selección de una versión por defecto
