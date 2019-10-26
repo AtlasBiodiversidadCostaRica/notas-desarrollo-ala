@@ -71,8 +71,18 @@ El [Java Development Kit (JDK)](https://www.oracle.com/technetwork/java/) es una
 
 Para instalar el JDK, debe ejecutarse el comando:
 ```
-$ sdk install java 8.0.232-zulu # versión probada para el desarrollo con los módulos de ALA en octubre 2019
+# Versión probada para el desarrollo con los módulos de ALA, en octubre 2019
+$ sdk install java 8.0.232-zulu
+```
+
+Puede comprobarse la instalación con el comando:
+```
+$ java -version
+openjdk version "1.8.0_232"
+OpenJDK Runtime Environment (Zulu 8.42.0.21-CA-linux64) (build 1.8.0_232-b18)
+OpenJDK 64-Bit Server VM (Zulu 8.42.0.21-CA-linux64) (build 25.232-b18, mixed mode)
 ```
 
 ### Instalación de Gradle
+
 ### Instalación de Grails
