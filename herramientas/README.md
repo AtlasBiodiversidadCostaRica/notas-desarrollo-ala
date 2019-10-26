@@ -32,19 +32,12 @@ En octubre de 2019, la versión de SDKMAN! es 5.7.3+337
 **Notas sobre el uso de SDKMAN!:**
 Hay una guía detallada en [https://sdkman.io/usage](https://sdkman.io/usage). Se resumen a continuación algunos de los principales comandos.
 
-Para obtener ayuda:
 ```
-$ sdk help
-```
-
-Para instalar la última versión estable de un SDK (el instalador preguntará si se desea que esta sea la versión por defecto):
-```
-$ sdk install java
-```
-
-Para instalar una versión específica de un SDK:
-```
-$ sdk install scala 2.12.1
+$ sdk help                  # Obtención de ayuda
+$ sdk install java          # Instalación de la última versión establa de un SDK
+$ sdk install scala 2.12.1  # Instalación de una versión específica de un SDK
+$ sdk list                  # Lista de SDK
+$ sdk list groovy           # Lista de versiones de un SDK
 ```
 
 Las herramientas instaladas mediante SDKMAN! quedan almacenadas en el directorio:
