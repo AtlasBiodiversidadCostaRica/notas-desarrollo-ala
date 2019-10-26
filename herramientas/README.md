@@ -106,9 +106,10 @@ Se instala con el comando:
 # Versión probada para el desarrollo con los módulos de ALA, en octubre 2019
 $ sdk install grails 3.2.11
 ```
-En el caso del software de ALA, la versión de Grails puede verse en los archivos application.properties o gradle.properties. Por ejemplo:
+**NOTA:** En el caso del software de ALA, la versión de Grails puede verse en los archivos application.properties o gradle.properties. Por ejemplo:
 
 [https://github.com/AtlasOfLivingAustralia/bie-index/blob/master/gradle.properties](https://github.com/AtlasOfLivingAustralia/bie-index/blob/master/gradle.properties)
+
 [https://github.com/AtlasOfLivingAustralia/ala-bie/blob/master/gradle.properties](https://github.com/AtlasOfLivingAustralia/ala-bie/blob/master/gradle.properties)
 
 Puede comprobarse la instalación con el comando:
