@@ -6,6 +6,8 @@ A continuación, se presenta el proceso de instalación de Grails, mediante SDKM
 ## Instalación de Grails y SDK asociados mediante SDKMAN!
 El [Software Development Kit Manager (SDKMAN!)](https://sdkman.io/) permite instalar y administrar varios SDK (Software Development Kit), tales como Java, Groovy, Grails y otros, desde la línea de comandos de sistemas Unix. Entre sus ventajas, está la capacidad de mantener varias versiones del mismo SDK.
 
+Para instalar Grails mediante SDKMAN!, deben instalarse antes el Java Development Kit y el sistema Maven para automatización de construcción de código abierto.
+
 ### Instalación de SDKMAN!
 Las instrucciones detalladas pueden consultarse en [https://sdkman.io/install](https://sdkman.io/install). Se resumen aquí los principales pasos.
 
