@@ -10,13 +10,13 @@ Se comprobó que el comando `grails war` genera el archivo `build/libs/bie-index
 **Java**: 11.0.18  
 **Grails**: 4.1.1
 
-Comandos para SDK:
+**Comandos para SDK**
 ```
 sdk use java 11.0.18-zulu
 sdk use grails 4.1.1
 ```
 
-Comprobación de las versiones:
+**Comprobación de las versiones**
 ```shell
 java -version
 openjdk version "11.0.18" 2023-01-17 LTS
