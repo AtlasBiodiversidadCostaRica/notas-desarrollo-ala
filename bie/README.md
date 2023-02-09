@@ -7,8 +7,8 @@
 #### Versiones de Java y Grails
 Se comprobó que el comando `grails war` genera el archivo `build/libs/bie-index-1.8.2.war` con:
 
-Java: 11.0.18
-Grails: 4.1.1
+**Java**: 11.0.18  
+**Grails**: 4.1.1
 
 Comandos para SDK:
 ```
